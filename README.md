@@ -44,5 +44,6 @@ Getting Started
 
 License
 
-No license specified.<img width="1007" height="903" alt="digital_level" src="https://github.com/user-attachments/assets/635cb36c-3c7d-44f7-80b6-b2d226dfbf1a" />
+<img width="711" height="711" alt="oled1" src="https://github.com/user-attachments/assets/00df5de9-fd6f-4319-8eb9-cdf86c5fa45a" />
+
 
