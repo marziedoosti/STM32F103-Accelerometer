@@ -1,0 +1,15 @@
+C:\iar\ewarm-9.70.2\arm\bin\armproc.dll
+
+ C:\iar\ewarm-9.70.2\arm\bin\armstlink.dll
+
+ G:\marzie-files\codings\stm32f103\Accel_proj\EWARM\Accel_proj\Exe\Accel_proj.out
+
+ --plugin=C:\iar\ewarm-9.70.2\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=C:\iar\ewarm-9.70.2\arm/config/debugger/ST/STM32F1xx.dmac
+
+ --flash_loader=C:\iar\ewarm-9.70.2\arm/config/flashloader/ST/FlashSTM32F10xx8.board
+
+ 
+
+
